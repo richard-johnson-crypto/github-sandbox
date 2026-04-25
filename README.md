@@ -109,4 +109,4 @@ After committing, you can monitor the workflow:
 
 ---
 
-First Download: MacOS Docker
+First Download
